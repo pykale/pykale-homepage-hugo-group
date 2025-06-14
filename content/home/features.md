@@ -54,3 +54,5 @@ feature:
 ## What is PyKale?
 
 PyKale is a Python library providing accessible machine learning from multiple data sources for interdisciplinary research, particularly multimodal learning and transfer learning, named collectively as **K**nowledge-**a**ware machine **le**arning (Kale).
+
+✅ Listed in the official [PyTorch Landscape](https://landscape.pytorch.org/) as one of only four libraries under "Multimodal", alongside MMF (Meta), NeMo (NVIDIA), and USB (Microsoft).
