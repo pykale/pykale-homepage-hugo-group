@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Developed mainly at the University of Sheffield, with partial support by a Wellcome Trust Innovator Award.
+Developed mainly at the University of Sheffield, with partial support from an EPSRC NetworkPlus grant (UKRI396), a Wellcome Trust Innovator Award (215799/Z/19/Z), and university funding through the Centre for Machine Intelligence and its [AI Research Engineering (AIRE)](https://shef-aire.github.io/) team.
