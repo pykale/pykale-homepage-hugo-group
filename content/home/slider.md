@@ -30,19 +30,6 @@ content:
         icon_pack: fab
         text: Explore Now
         url: https://github.com/pykale/pykale
-    - title: 🥬 KaleCancer
-      content: 'An interactive, plain-language guide to what our multimodal head & neck cancer toolkit can do today'
-      align: right
-      background:
-        position: center
-        color: '#0b3d24'
-        brightness: 0.6
-        media: kalecancer_ml.png
-      link:
-        icon: stethoscope
-        icon_pack: fas
-        text: Explore KaleCancer
-        url: /cancer/
     - title: Accessible software 🗝️
       content: 'Make abundant machine learning software accessible for interdisciplinary research'
       align: left
