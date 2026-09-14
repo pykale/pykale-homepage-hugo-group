@@ -10,6 +10,9 @@ main:
   # - name: News
   #   url: '#posts'
   #   weight: 20
+  - name: KaleCancer
+    url: '/cancer/'
+    weight: 25
   - name: Docs
     url: 'https://pykale.readthedocs.io/en/latest/'
     weight: 30
